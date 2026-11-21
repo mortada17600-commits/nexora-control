@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.vercel.discord_web_2.twa",
+    "sha256_cert_fingerprints": ["8B:51:B3:27:43:C5:97:54:7C:71:37:5B:B1:BE:01:7F:01:57:62:D0:19:64:2F:E5:27:43:B6:28:FF:9C:47:BA"]
+  }
+}]
